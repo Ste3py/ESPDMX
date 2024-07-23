@@ -27,11 +27,11 @@ Here’s what’s on my to-do list for the MKII version of this project (in orde
 
 ## More Details
 
-There is a schem of the electronics :
+Here is a schematic of the electronics:
 
 ![Schematic](render/schematic.png)
 
 
-and a Final Product Image :
+And here is an image of the final product:
 
 ![Final product](render/finalproduct.jpeg)
