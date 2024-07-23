@@ -34,4 +34,4 @@ Here is a schematic of the electronics:
 
 And here is an image of the final product:
 
-![Final product](render/finalproduct.jpeg)
+![Final product](render/finalproduct.jpg)
