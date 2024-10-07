@@ -1,4 +1,4 @@
-# ESPDMX: Put DMX on WiFi
+# ESPDMX: Put DMX over WiFi
 
 Hello there!
 
@@ -18,10 +18,10 @@ The ESP creates a WebSocket server, allowing you to send commands (check out the
 
 Here’s what’s on my to-do list for the MKII version of this project (in order of priority):
 
-- Reduce delays between `ws.send()` and DMX device reaction
+- Reduce delays between `ws.send()` and DMX device reaction (may be change to a Circuit Python based MPU)
 - Add security measures like a Token or API Key
 - Develop a PCB version
-- Implement MQTT compatibility for home automation
+- Implement MQTT compatibility for home automation (And Even better, a Home Assistant pluggin)
 - Create a WebApp for configuration (set WiFi SSID and password, choose communication method (WebSocket or MQTT), and direct control without WiFi connection)
 
 
